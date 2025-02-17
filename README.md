@@ -1,1 +1,1 @@
-# schsite
+# [schnotes](https://shenchih20.github.io/schnotes/)
